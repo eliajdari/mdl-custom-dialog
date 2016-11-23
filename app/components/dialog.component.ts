@@ -44,7 +44,10 @@ export class DialogComponent implements OnInit {
 
     }
     public login() {
-
+    console.log("1");
     }
+
+
+
 
 }

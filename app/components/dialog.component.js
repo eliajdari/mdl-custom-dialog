@@ -29,6 +29,7 @@ let DialogComponent = class DialogComponent {
     ngOnInit() {
     }
     login() {
+        console.log("1");
     }
 };
 DialogComponent = __decorate([
